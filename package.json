@@ -1,0 +1,11 @@
+{
+  "name": "noble-test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true,
+  "dependencies": {
+    "noble": "^1.2.0"
+  }
+}
